@@ -7,5 +7,5 @@
 
 <h2>📺 Certifications </h2>
 
-- [Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WMSYQCZSCJ.png)
+- [Introduction to Cyber Security(TryHackMe)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WMSYQCZSCJ.png)
 
